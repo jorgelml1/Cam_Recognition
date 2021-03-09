@@ -9,4 +9,4 @@ For this project, you will have to:
 5. Run face_detection.py at the end. (Be aware your camera is connected)
 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/2LItVbW65PMUTs6of6/giphy.gif)
