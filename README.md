@@ -9,4 +9,4 @@ For this project, you will have to:
 5. Run face_detection.py at the end. (Be aware your camera is connected)
 
 
-<div style="width:100%;height:0;padding-bottom:178%;position:relative;"><iframe src="https://giphy.com/embed/2LItVbW65PMUTs6of6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/2LItVbW65PMUTs6of6">via GIPHY</a></p>
+<a href="https://giphy.com/gifs/2LItVbW65PMUTs6of6">via GIPHY</a></p>
