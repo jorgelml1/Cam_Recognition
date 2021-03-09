@@ -10,5 +10,5 @@ For this project, you will have to:
 
 
 <div class="loading">
-   <img src="https://giphy.com/gifs/pXAclkNzJdarK1GUu8">
+   <img src="https://giphy.com/gifs/2LItVbW65PMUTs6of6">
 </div>
