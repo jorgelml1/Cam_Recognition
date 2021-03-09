@@ -9,3 +9,6 @@ For this project, you will have to:
 5. Run face_detection.py at the end. (Be aware your camera is connected)
 
 
+<div class="loading">
+   <img src="https://giphy.com/gifs/pXAclkNzJdarK1GUu8">
+</div>
